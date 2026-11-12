@@ -10,7 +10,7 @@ website:
         href: "https://www.ariesters.com"
       - about.qmd
       - icon: linkedin
-      - href: "https://www.linkedin.com/in/ariesters"
+        href: "https://www.linkedin.com/in/ariesters"
       - icon: github
         href: "https://www.github.com/aqesters"
 
