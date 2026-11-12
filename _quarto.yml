@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Case Studies"
+  site-url: "https://aqesters.github.io/case-studies"
+  navbar:
+    right:
+      - text: "Home"
+        href: "https://www.ariesters.com"
+      - about.qmd
+      - icon: linkedin
+      - href: "https://www.linkedin.com/in/ariesters"
+      - icon: github
+        href: "https://www.github.com/aqesters"
+
+format:
+  html:
+    theme: cosmo

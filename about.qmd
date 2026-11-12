@@ -1,0 +1,15 @@
+---
+title: "About"
+image: linkedin.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/ariesters"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/aqesters"
+---
+
+Electrical engineer with a decade of instrumentation R&D experience across high-tech industries, including biotech, semiconductors, and electrical manufacturing. Specialist in cross-disciplinary electronics, sensing, and controls. Uniquely skilled in using sensor data analysis, algorithms, and statistical modeling to improve instrument performance and assess whether systems are ready for production. 
